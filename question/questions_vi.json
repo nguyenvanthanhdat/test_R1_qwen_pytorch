@@ -1,0 +1,86 @@
+{
+    "regular": {
+        "question1": "Một người đi từ điểm A đến điểm B mất 2 giờ với vận tốc trung bình 40 km/h. Nếu anh ta muốn đến sớm hơn 30 phút, anh ta cần đi với vận tốc bao nhiêu?",
+        "question2": "Nếu tất cả mèo đều là động vật, và một số động vật biết bơi, liệu có chắc chắn rằng có ít nhất một con mèo biết bơi không?",
+        "question3": "Một cửa hàng bán ba loại nước uống: trà, cà phê và nước cam. Nếu mỗi khách hàng chỉ mua một loại và số lượng trà bán ra bằng một nửa tổng số cà phê và nước cam, vậy loại đồ uống nào được mua nhiều nhất?",
+        "question4": "Một công ty công nghệ báo cáo lợi nhuận tăng 20% mỗi năm. Nếu lợi nhuận năm nay là 100 triệu đô, lợi nhuận sau 3 năm sẽ là bao nhiêu?",
+        "question5": "Nếu một xã hội không có luật pháp nhưng tất cả mọi người đều hành xử đạo đức, liệu có thể gọi đó là một xã hội công bằng không? Tại sao?"
+    },
+    "finance": {
+        "question1": "Nếu lãi suất ngân hàng tăng, tác động ngắn hạn và dài hạn của nó đến thị trường chứng khoán là gì?",
+        "question2": "Một doanh nghiệp sản xuất hàng hóa với chi phí cố định là 100 triệu và chi phí biến đổi là 50.000 VND/sản phẩm. Nếu giá bán mỗi sản phẩm là 100.000 VND, doanh nghiệp cần bán ít nhất bao nhiêu sản phẩm để có lãi?",
+        "question3": "Một công ty có thể tăng doanh thu theo hai cách: tăng giá hoặc tăng số lượng bán. Trong điều kiện nào việc tăng giá có thể dẫn đến giảm doanh thu?",
+        "question4": "Nếu một quốc gia áp dụng mức thuế cao đối với hàng nhập khẩu, tác động đến nền kinh tế trong nước sẽ như thế nào?",
+        "questinon5": "Một nền kinh tế có thể tăng trưởng bền vững mà không gây lạm phát không? Nếu có, điều kiện nào cần phải thỏa mãn?"
+    },
+    "technology": {
+        "question1": "Nếu một công ty phát triển một thuật toán AI có thể tự học và cải thiện, liệu có khả năng thuật toán này vượt qua trí thông minh của con người không? Tại sao?",
+        "question2": "Một mạng xã hội có thể phát hiện và xóa tin giả bằng cách sử dụng AI. Tuy nhiên, điều này có thể dẫn đến việc hạn chế quyền tự do ngôn luận. Làm thế nào để cân bằng giữa hai yếu tố này?",
+        "question3": "Nếu một công nghệ mới cho phép con người sống lâu hơn đáng kể, điều này sẽ ảnh hưởng đến cấu trúc xã hội và nền kinh tế như thế nào?",
+        "question4": "Một công ty phát triển một hệ thống tự lái hoàn toàn. Nếu xảy ra tai nạn, ai sẽ chịu trách nhiệm: người ngồi trên xe, công ty sản xuất xe, hay nhà phát triển phần mềm?",
+        "question5": "Nếu tất cả các thiết bị điện tử đều có thể kết nối với nhau (Internet of Things), điều này có thể tạo ra những lợi ích và rủi ro gì cho người dùng?"
+    },
+    "environment": {
+        "question1": "Nếu một quốc gia quyết định chuyển đổi hoàn toàn sang năng lượng tái tạo, những thách thức kinh tế và kỹ thuật nào sẽ nảy sinh?",
+        "question2": "Một loài động vật quý hiếm đang đứng trước nguy cơ tuyệt chủng. Liệu việc nhân giống trong điều kiện nuôi nhốt có phải là giải pháp duy nhất? Có những giải pháp thay thế nào?",
+        "question3": "Nếu mực nước biển dâng cao do biến đổi khí hậu, những thành phố ven biển nào sẽ bị ảnh hưởng nặng nề nhất? Các biện pháp phòng ngừa nào có thể được thực hiện?",
+        "question4": "Một công ty xả thải chất độc hại ra môi trường, gây ô nhiễm nghiêm trọng. Trách nhiệm của công ty, chính phủ và cộng đồng trong việc giải quyết vấn đề này là gì?",
+        "question5": "Nếu tất cả các quốc gia trên thế giới đều cam kết giảm lượng khí thải carbon, liệu có thể ngăn chặn được hiện tượng nóng lên toàn cầu không? Tại sao?"
+    },
+    "healthcare": {
+        "question1": "Nếu một loại vắc-xin mới được phát triển để phòng ngừa một bệnh truyền nhiễm nguy hiểm, nhưng có một số tác dụng phụ, liệu có nên bắt buộc mọi người tiêm vắc-xin này không?",
+        "question2": "Một bệnh viện có thể sử dụng AI để chẩn đoán bệnh. Tuy nhiên, AI có thể đưa ra chẩn đoán sai. Làm thế nào để đảm bảo an toàn cho bệnh nhân trong trường hợp này?",
+        "question3": "Nếu chi phí chăm sóc sức khỏe tăng cao, làm thế nào để đảm bảo mọi người đều có quyền được tiếp cận dịch vụ y tế chất lượng?",
+        "question4": "Một loại thuốc mới có thể chữa khỏi một bệnh nan y, nhưng giá thành rất cao. Liệu có nên ưu tiên phát triển các loại thuốc giá rẻ hơn cho các bệnh phổ biến hơn không?",
+        "question5": "Nếu một người có thể sống lâu hơn nhờ các tiến bộ y học, nhưng chất lượng cuộc sống không được cải thiện, liệu điều này có thực sự đáng mong muốn không?"
+    },
+    "education": {
+        "question1": "Nếu một trường học áp dụng phương pháp giảng dạy hoàn toàn trực tuyến, những lợi ích và hạn chế nào sẽ xuất hiện so với phương pháp truyền thống?",
+        "question2": "Một học sinh có thể đạt điểm cao trong các bài kiểm tra, nhưng không có kỹ năng thực tế. Hệ thống giáo dục nên tập trung vào việc đánh giá kiến thức hay kỹ năng?",
+        "question3": "Nếu tất cả các tài liệu học tập đều có sẵn miễn phí trên internet, vai trò của giáo viên sẽ thay đổi như thế nào?",
+        "question4": "Một trường đại học có thể tăng cường tính cạnh tranh bằng cách thu hút sinh viên giỏi từ khắp nơi trên thế giới. Tuy nhiên, điều này có thể gây bất lợi cho sinh viên địa phương. Làm thế nào để cân bằng giữa hai yếu tố này?",
+        "question5": "Nếu một hệ thống giáo dục chỉ tập trung vào việc đào tạo các kỹ năng cần thiết cho thị trường lao động, liệu có bỏ qua các giá trị nhân văn và xã hội không?"
+    },
+    "politics": {
+        "question1": "Nếu một quốc gia có hệ thống bầu cử đa đảng, nhưng chỉ có hai đảng lớn thay nhau nắm quyền, liệu có thể gọi đó là một nền dân chủ thực sự không?",
+        "question2": "Một chính phủ có thể tăng cường an ninh quốc gia bằng cách kiểm soát thông tin trên internet. Tuy nhiên, điều này có thể vi phạm quyền riêng tư của công dân. Làm thế nào để cân bằng giữa hai yếu tố này?",
+        "question3": "Nếu một quốc gia có tỷ lệ tham nhũng cao, những biện pháp nào có thể được thực hiện để cải thiện tình hình?",
+        "question4": "Một đảng phái chính trị có thể giành được sự ủng hộ của cử tri bằng cách hứa hẹn các chính sách kinh tế hấp dẫn, nhưng không thực hiện được. Điều này có thể dẫn đến những hậu quả gì?",
+        "question5": "Nếu một quốc gia có nhiều nhóm dân tộc khác nhau, làm thế nào để xây dựng một xã hội hòa hợp và đoàn kết?"
+    },
+    "society": {
+        "question1": "Nếu tỷ lệ sinh giảm mạnh, điều này sẽ ảnh hưởng đến cấu trúc dân số và nền kinh tế của một quốc gia như thế nào?",
+        "question2": "Một xã hội có thể giảm thiểu bất bình đẳng bằng cách phân phối lại thu nhập. Tuy nhiên, điều này có thể làm giảm động lực làm việc. Làm thế nào để cân bằng giữa hai yếu tố này?",
+        "question3": "Nếu tất cả mọi người đều có quyền truy cập internet miễn phí, điều này có thể tạo ra những thay đổi gì trong xã hội?",
+        "question4": "Một cộng đồng có thể duy trì bản sắc văn hóa của mình trong bối cảnh toàn cầu hóa không? Nếu có, bằng cách nào?",
+        "question5": "Nếu một xã hội không có tội phạm, nhưng mọi người đều bị giám sát chặt chẽ, liệu có thể gọi đó là một xã hội lý tưởng không?"
+    },
+    "ethics": {
+        "question1": "Nếu một công ty có thể tăng lợi nhuận bằng cách sử dụng lao động trẻ em ở một quốc gia khác, liệu điều này có vi phạm đạo đức kinh doanh không?",
+        "question2": "Một bác sĩ có thể cứu sống một bệnh nhân bằng cách sử dụng một phương pháp điều trị chưa được kiểm chứng. Liệu điều này có vi phạm đạo đức nghề nghiệp không?",
+        "question3": "Nếu một người có thể đạt được mục đích tốt bằng cách nói dối, liệu hành động này có thể được chấp nhận không?",
+        "question4": "Một nhà khoa học có thể tạo ra một loại vũ khí hủy diệt hàng loạt. Trách nhiệm đạo đức của nhà khoa học này là gì?",
+        "question5": "Nếu một xã hội có thể loại bỏ hoàn toàn sự phân biệt đối xử, nhưng phải hy sinh một số quyền tự do cá nhân, liệu điều này có đáng đánh đổi không?"
+    },
+    "history": {
+        "question1": "Nếu một sự kiện lịch sử quan trọng không xảy ra, liệu lịch sử thế giới sẽ thay đổi như thế nào?",
+        "question2": "Một nền văn minh cổ đại có thể sụp đổ do nhiều nguyên nhân khác nhau. Bài học nào có thể rút ra từ sự sụp đổ này cho xã hội hiện đại?",
+        "question3": "Nếu một quốc gia không trải qua giai đoạn thuộc địa, liệu sự phát triển của quốc gia đó có khác biệt không?",
+        "question4": "Một nhà lãnh đạo lịch sử có thể được đánh giá dựa trên những tiêu chí nào? Liệu có thể có một đánh giá khách quan về một nhân vật lịch sử không?",
+        "question5": "Nếu tất cả các tài liệu lịch sử đều bị phá hủy, liệu có thể tái tạo lại quá khứ không? Nếu có, bằng cách nào?"
+    },
+    "art": {
+        "question1": "Nếu một tác phẩm nghệ thuật gây tranh cãi, liệu nó có nên bị cấm không?",
+        "question2": "Một nghệ sĩ có thể sử dụng AI để tạo ra tác phẩm nghệ thuật. Liệu tác phẩm này có được coi là nghệ thuật thực sự không?",
+        "question3": "Nếu một tác phẩm nghệ thuật không được công chúng đón nhận, liệu nó có còn giá trị không?",
+        "question4": "Một bảo tàng có thể trưng bày các tác phẩm nghệ thuật bị đánh cắp trong quá khứ không? Nếu có, điều kiện nào cần phải thỏa mãn?",
+        "question5": "Nếu tất cả mọi người đều có thể tạo ra các tác phẩm nghệ thuật dễ dàng bằng công nghệ, liệu giá trị của nghệ thuật có bị giảm sút không?"
+    },
+    "law": {
+        "question1": "Nếu một người phạm tội do bị ép buộc, liệu người đó có phải chịu trách nhiệm hình sự không?",
+        "question2": "Một hệ thống pháp luật có thể bảo vệ quyền lợi của người thiểu số không? Nếu có, bằng cách nào?",
+        "question3": "Nếu một luật lệ không còn phù hợp với thực tế xã hội, liệu nó có nên được thay đổi không?",
+        "question4": "Một tòa án có thể đưa ra phán quyết công bằng trong một vụ án có liên quan đến chính trị không?",
+        "question5": "Nếu một quốc gia không có hệ thống pháp luật, liệu xã hội có thể vận hành một cách trật tự không?"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "regular": {
+        "question1": "A person travels from point A to point B in 2 hours with an average speed of 40 km/h. If they want to arrive 30 minutes earlier, what speed do they need to travel at?",
+        "question2": "If all cats are animals, and some animals can swim, is it certain that at least one cat can swim?",
+        "question3": "A store sells three types of drinks: tea, coffee, and orange juice. If each customer only buys one type and the number of teas sold is half the total number of coffees and orange juices, which drink is the most popular?",
+        "question4": "A technology company reports a 20% increase in profits each year. If this year's profit is $100 million, what will the profit be after 3 years?",
+        "question5": "If a society has no laws but everyone acts ethically, can it be called a just society? Why?"
+    },
+    "finance": {
+        "question1": "If interest rates increase, what are the short-term and long-term effects on the stock market?",
+        "question2": "A business produces goods with a fixed cost of 100 million and a variable cost of 50,000 VND/product. If the selling price of each product is 100,000 VND, how many products does the business need to sell at least to make a profit?",
+        "question3": "A company can increase revenue in two ways: increasing prices or increasing sales volume. Under what conditions can increasing prices lead to a decrease in revenue?",
+        "question4": "If a country imposes high tariffs on imported goods, what will be the impact on the domestic economy?",
+        "question5": "Can an economy grow sustainably without causing inflation? If so, what conditions must be met?"
+    },
+    "technology": {
+        "question1": "If a company develops an AI algorithm that can learn and improve itself, is it possible for this algorithm to surpass human intelligence? Why?",
+        "question2": "A social network can detect and delete fake news using AI. However, this can lead to restrictions on freedom of speech. How can these two factors be balanced?",
+        "question3": "If a new technology allows people to live significantly longer, how will this affect the social structure and the economy?",
+        "question4": "A company develops a fully autonomous driving system. If an accident occurs, who is responsible: the person in the car, the car manufacturer, or the software developer?",
+        "question5": "If all electronic devices can connect to each other (Internet of Things), what benefits and risks can this create for users?"
+    },
+    "environment": {
+        "question1": "If a country decides to completely switch to renewable energy, what economic and technical challenges will arise?",
+        "question2": "A rare animal species is on the verge of extinction. Is captive breeding the only solution? Are there any alternative solutions?",
+        "question3": "If sea levels rise due to climate change, which coastal cities will be most affected? What preventive measures can be taken?",
+        "question4": "A company discharges toxic waste into the environment, causing serious pollution. What are the responsibilities of the company, the government, and the community in addressing this issue?",
+        "question5": "If all countries in the world commit to reducing carbon emissions, can global warming be prevented? Why?"
+    },
+    "healthcare": {
+        "question1": "If a new vaccine is developed to prevent a dangerous infectious disease, but there are some side effects, should it be mandatory for everyone to get vaccinated?",
+        "question2": "A hospital can use AI to diagnose diseases. However, AI can make incorrect diagnoses. How can patient safety be ensured in this case?",
+        "question3": "If healthcare costs increase significantly, how can we ensure that everyone has the right to access quality medical services?",
+        "question4": "A new drug can cure a terminal illness, but the cost is very high. Should we prioritize the development of cheaper drugs for more common diseases?",
+        "question5": "If a person can live longer due to medical advances, but the quality of life is not improved, is this really desirable?"
+    },
+    "education": {
+        "question1": "If a school adopts a fully online teaching method, what are the advantages and disadvantages compared to the traditional method?",
+        "question2": "A student can get high scores on tests but lacks practical skills. Should the education system focus on assessing knowledge or skills?",
+        "question3": "If all learning materials are available for free on the internet, how will the role of teachers change?",
+        "question4": "A university can increase its competitiveness by attracting talented students from all over the world. However, this may disadvantage local students. How can these two factors be balanced?",
+        "question5": "If an education system focuses only on training the skills needed for the labor market, will it neglect humanistic and social values?"
+    },
+    "politics": {
+        "question1": "If a country has a multi-party electoral system, but only two major parties take turns in power, can it be called a true democracy?",
+        "question2": "A government can strengthen national security by controlling information on the internet. However, this may violate citizens' privacy. How can these two factors be balanced?",
+        "question3": "If a country has a high rate of corruption, what measures can be taken to improve the situation?",
+        "question4": "A political party can gain voter support by promising attractive economic policies, but fails to deliver. What consequences can this lead to?",
+        "question5": "If a country has many different ethnic groups, how can a harmonious and united society be built?"
+    },
+    "society": {
+        "question1": "If the birth rate declines sharply, how will this affect the population structure and the economy of a country?",
+        "question2": "A society can reduce inequality by redistributing income. However, this can reduce the incentive to work. How can these two factors be balanced?",
+        "question3": "If everyone has free access to the internet, what changes can this create in society?",
+        "question4": "Can a community maintain its cultural identity in the context of globalization? If so, how?",
+        "question5": "If a society has no crime, but everyone is closely monitored, can it be called an ideal society?"
+    },
+    "ethics": {
+        "question1": "If a company can increase profits by using child labor in another country, is this a violation of business ethics?",
+        "question2": "A doctor can save a patient's life by using an unproven treatment method. Is this a violation of professional ethics?",
+        "question3": "If a person can achieve a good purpose by lying, can this action be accepted?",
+        "question4": "A scientist can create a weapon of mass destruction. What is the moral responsibility of this scientist?",
+        "question5": "If a society can completely eliminate discrimination, but must sacrifice some individual freedoms, is this worth the trade-off?"
+    },
+    "history": {
+        "question1": "If a major historical event had not happened, how would world history have changed?",
+        "question2": "An ancient civilization can collapse due to various causes. What lessons can be learned from this collapse for modern society?",
+        "question3": "If a country had not gone through a period of colonization, would its development be different?",
+        "question4": "What criteria can be used to evaluate a historical leader? Is it possible to have an objective assessment of a historical figure?",
+        "question5": "If all historical documents were destroyed, could the past be reconstructed? If so, how?"
+    },
+    "art": {
+        "question1": "If a work of art is controversial, should it be banned?",
+        "question2": "An artist can use AI to create artwork. Is this work considered real art?",
+        "question3": "If a work of art is not well-received by the public, does it still have value?",
+        "question4": "Can a museum display works of art that were stolen in the past? If so, what conditions must be met?",
+        "question5": "If everyone can easily create works of art using technology, will the value of art be diminished?"
+    },
+    "law": {
+        "question1": "If a person commits a crime under duress, should that person be held criminally responsible?",
+        "question2": "Can a legal system protect the rights of minorities? If so, how?",
+        "question3": "If a law is no longer relevant to social reality, should it be changed?",
+        "question4": "Can a court make a fair judgment in a politically related case?",
+        "question5": "If a country has no legal system, can society function in an orderly manner?"
+    }
+}
